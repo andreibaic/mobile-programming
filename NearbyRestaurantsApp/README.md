@@ -10,3 +10,5 @@ Author:
 Baic Andrei `<baic.andrei@gmail.com>`
 
 MIT License 
+
+![alt text](https://github.com/andreibaic/andreibaic.github.io/blob/a1a5fb4920e808bbe4e979e880ccd4162b3b8ee8/NearbyRestaurantsApp/app.png "Logo Title Text 1")
